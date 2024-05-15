@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\bin\Debug\net6.0\proyecto.exe
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\bin\Debug\net6.0\proyecto.deps.json
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\bin\Debug\net6.0\proyecto.runtimeconfig.json
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\bin\Debug\net6.0\proyecto.dll
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\bin\Debug\net6.0\proyecto.pdb
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\proyecto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\proyecto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\proyecto.sourcelink.json
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\proyecto.dll
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\refint\proyecto.dll
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\proyecto.pdb
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\proyecto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\c#\proyectoC-.Net\proyecto\obj\Debug\net6.0\ref\proyecto.dll
