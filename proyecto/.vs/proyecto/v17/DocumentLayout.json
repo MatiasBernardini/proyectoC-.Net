@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|c:\\users\\usuario\\desktop\\c#\\proyectoc-.net\\proyecto\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|c:\\users\\usuario\\desktop\\c#\\proyectoc-.net\\proyecto\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|solutionrelative:productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|c:\\users\\usuario\\desktop\\c#\\proyectoc-.net\\proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|c:\\users\\usuario\\desktop\\c#\\proyectoc-.net\\proyecto\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\database\\gestorbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|solutionrelative:database\\gestorbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|c:\\users\\usuario\\desktop\\c#\\proyectoc-.net\\proyecto\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|c:\\users\\usuario\\desktop\\c#\\proyectoc-.net\\proyecto\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C749674-50F8-4287-980D-8BE3AE6E47DE}|proyecto.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Venta.cs",
-              "RelativeDocumentMoniker": "Venta.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Venta.cs",
-              "RelativeToolTip": "Venta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T03:26:40.702Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Usuario.cs",
-              "RelativeDocumentMoniker": "Usuario.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Usuario.cs",
-              "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T01:03:53.79Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T00:03:47.123Z",
+              "WhenOpened": "2024-06-01T00:21:00.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductoVendido.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\ProductoVendido.cs",
-              "RelativeDocumentMoniker": "ProductoVendido.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\ProductoVendido.cs",
-              "RelativeToolTip": "ProductoVendido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Title": "GestorBaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\DataBase\\GestorBaseDeDatos.cs",
+              "RelativeDocumentMoniker": "DataBase\\GestorBaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\DataBase\\GestorBaseDeDatos.cs",
+              "RelativeToolTip": "DataBase\\GestorBaseDeDatos.cs",
+              "ViewState": "AQIAAFsBAAAAAAAAAAAcwNEBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T03:09:44.584Z",
+              "WhenOpened": "2024-05-30T01:46:20.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Producto.cs",
-              "RelativeDocumentMoniker": "Producto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Producto.cs",
-              "RelativeToolTip": "Producto.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBsAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\c#\\proyectoC-.Net\\proyecto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAAAPEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:22:27.359Z",
+              "WhenOpened": "2024-05-30T01:43:06.548Z",
               "EditorCaption": ""
             }
           ]
